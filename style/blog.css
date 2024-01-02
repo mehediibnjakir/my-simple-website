@@ -1,0 +1,17 @@
+div{
+    background-color: aquamarine;
+    margin: 30px;
+    padding: 10px 10px 10px 20px;
+}
+h3{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    
+}
+.bord1{
+    border: 20px solid;
+    /* border-left: 10px; */
+    border-radius: 30px 5px 50px 5px;
+    border-color: rgb(0, 100, 0);
+    padding: 10px;
+}
