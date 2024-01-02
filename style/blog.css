@@ -15,3 +15,12 @@ h3{
     border-color: rgb(0, 100, 0);
     padding: 10px;
 }
+header{
+    height: 300px;
+    font-size: 50px;
+    text-align: center;
+    background-image: url('../image/me\ with\ abbu.jpg');
+    background-size: cover;
+    /* background-repeat:repeat-x; */
+    background-size: contain;
+}
